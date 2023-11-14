@@ -41,7 +41,7 @@ const GetItems = ({ isOpen, handleClose }) => {
       <div className="flex flex-col gap-4 text-[#050f2f] px-6">
         <Link href="/pricing">
           <span className="text-lg font-bold cursor-pointer">
-            Token presale
+            Token Subscription presale
           </span>
         </Link>
         <Link href="/signup">
@@ -110,7 +110,7 @@ const NavComponent = () => {
                 color="primary"
                 variant="contained"
               >
-                <Link href="/pricing">Token presale</Link>
+                <Link href="/pricing">Token Subscription presale</Link>
               </Button>
             </div>
             <Button

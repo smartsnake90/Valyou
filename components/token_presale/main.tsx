@@ -77,7 +77,6 @@ const MainTokenComponent = () => {
               src="/assets/vxd_img.svg"
               width={600}
               height={600}
-             
               alt="awards"
             />
           </Grid>
@@ -107,13 +106,14 @@ const MainTokenComponent = () => {
               src="/assets/valyoux_black_logo.svg"
               width={600}
               height={600}
-             
               alt="awards"
             />
           </Grid>
           <Grid className="px-7 text-center" item md={6}>
             <div className="building">
-              <p className="text-6xl font-bold rebuilding">Valyou X token</p>
+              <p className="text-6xl font-bold rebuilding">
+                Valyou X Subscription token
+              </p>
             </div>
             <br />
             <div className="desc_text text-justify">
